@@ -19,6 +19,6 @@ The tasks involve logical network mapping, device configuration, and service imp
 
 ## Contributors
 - [Trung Thieu Vinh](https://github.com/tvtrungg)
-- [Ha Thi Thanh Tu](https://github.com/HaTu0803)
+- [Tu Ha Thi Thanh](https://github.com/HaTu0803)
 - [Man Nguyen Huynh](https://github.com/nhman2002)
 
